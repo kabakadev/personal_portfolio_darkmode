@@ -56,7 +56,7 @@ start index.html
 ## Usage
 Toggle between dark and light modes using the switch in the navbar.
 Browse through different sections like About Me, Projects, and Contact to view the full portfolio.
-**Technologies Used**
+## **Technologies Used**
 * HTML5
 * CSS3
 * JavaScript
