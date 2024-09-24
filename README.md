@@ -53,7 +53,7 @@ Run:
 ```bash
 start index.html
 ```
-##Usage
+## Usage
 Toggle between dark and light modes using the switch in the navbar.
 Browse through different sections like About Me, Projects, and Contact to view the full portfolio.
 **Technologies Used
